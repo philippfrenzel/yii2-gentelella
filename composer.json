@@ -1,5 +1,5 @@
 {
-  "name": "yiister/yii2-gentelella",
+  "name": "philippfrenzel/yii2-gentelella",
   "description": "Free admin template for backend",
   "type": "yii2-extension",
   "keywords": ["yii2","extension","backend","bootsprap3","admin","gentelella","theme","asset"],
@@ -10,6 +10,11 @@
       "email": "fps.06@mail.ru",
       "homepage": "https://github.com/fps01",
       "role": "Creator"
+    }
+    ,
+    {
+      "name": "Philipp Frenzel",
+      "role": "Adapter"
     }
   ],
   "require": {
